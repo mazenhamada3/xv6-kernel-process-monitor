@@ -23,7 +23,7 @@ Follow these exact steps to download and run the kernel.
 Open your terminal and run the following commands to download the project and enter the directory:
 
 ```bash
-git clone [https://github.com/mazenhamada3/xv6-kernel-process-monitor.git](https://github.com/mazenhamada3/xv6-kernel-process-monitor.git)
+git clone https://github.com/mazenhamada3/xv6-kernel-process-monitor.git
 ```
 ### Navigate into the project directory
 ```bash
