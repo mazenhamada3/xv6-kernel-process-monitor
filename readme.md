@@ -43,7 +43,7 @@ Usage:
 ```bash
 metrics
 ```
-utput Explanation:
+output Explanation:
 
 Global Stats: Average turnaround/waiting times for finished processes.
 
@@ -102,7 +102,7 @@ Example:
 ```bash
 $ spin 5000 &
 ```
-##🛠️ Technical Implementation Details
+## 🛠️ Technical Implementation Details
 
 This section outlines the low-level kernel modifications made to support the new features.
 ### 1. Kernel Structures (`kernel/proc.h`)
